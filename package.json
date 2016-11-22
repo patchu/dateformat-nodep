@@ -1,0 +1,24 @@
+{
+  "name": "dateformat-nodep",
+  "version": "1.0.0",
+  "description": "Dateformat without dependencies",
+  "main": "dateformat-nodep.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patchu/dateformat-nodep.git"
+  },
+  "keywords": [
+    "date",
+    "dateformat",
+    "javascript"
+  ],
+  "author": "Patrick Chu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patchu/dateformat-nodep/issues"
+  },
+  "homepage": "https://github.com/patchu/dateformat-nodep#readme"
+}
